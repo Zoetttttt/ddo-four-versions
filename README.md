@@ -2,7 +2,15 @@
 
 D Design Office 实验性作品集网站的四个保留版本：V1、V2、V4、V5。
 
-## 页面
+## 在线访问
+
+- [V1 · 第一版](https://zoetttttt.github.io/ddo-four-versions/versions/v1/)
+- [V2 · 第二版](https://zoetttttt.github.io/ddo-four-versions/versions/v2/)
+- [V4 · 第四版](https://zoetttttt.github.io/ddo-four-versions/versions/v4/)
+- [V5 · 第五版](https://zoetttttt.github.io/ddo-four-versions/versions/v5/)
+- [一键复制四版链接](https://zoetttttt.github.io/ddo-four-versions/share/)
+
+## 源代码目录
 
 - [V1](./versions/v1/) — 第一版
 - [V2](./versions/v2/) — 第二版
